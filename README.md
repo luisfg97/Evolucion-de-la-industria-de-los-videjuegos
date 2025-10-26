@@ -66,7 +66,7 @@ El conjunto de datos incluye:
 
 ## 🖥️ Estructura del Repositorio
 
-├── Videojuegos_2014_2023.ipynb # Notebook con el análisis completo
-├── Evolución industria de los videojuegos.pptx # Presentación del proyecto
-├── README.md # Descripción del proyecto
+- Videojuegos_2014_2023.ipynb # Notebook con el análisis completo
+- Evolución industria de los videojuegos.pptx # Presentación del proyecto
+- README.md # Descripción del proyecto
 
