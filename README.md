@@ -69,4 +69,11 @@ El conjunto de datos incluye:
 - Videojuegos_2014_2023.ipynb # Notebook con el análisis completo
 - Evolución industria de los videojuegos.pptx # Presentación del proyecto
 - README.md # Descripción del proyecto
+- data/
+  - game_awards_2014_2019.csv
+  - game_awards_2020_2023.xlsx
+  - genres_ratings.csv
+  - uder_ratings.csv
+
+
 
