@@ -35,7 +35,6 @@ El conjunto de datos incluye:
 - Datos de valoración media, año de lanzamiento y categoría (AAA, AA, Indie).  
 - Registros adicionales con **nominados y ganadores** del premio *Game of the Year*.
 
-> **Fuente:** recopilación propia y bases de datos públicas de videojuegos (Steam, Metacritic, VGChartz, etc.).
 
 ---
 
